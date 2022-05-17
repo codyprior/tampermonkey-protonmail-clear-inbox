@@ -19,7 +19,7 @@ Please make sure you clear the Inbox of any messages you would like to keep firs
 3. In Firefox, in your Extensions toolbar, click 'Tampermonkey' -> 'Dashboard'
 4. Click and drag 'ProtonMail - Clear Inbox.user.js' into the Tampermonkey Dashboard
 5. Click the 'Install' button to install the script into the Tampermonkey browser extension
-6. Open 'https://mail.protonmail.com/u/0/inbox' to access your ProtonMail inbox
-7. Enable the 'ProtonMail - Clear Inbox' script
+6. In the Tampermonkey Dashboard, enable the 'ProtonMail - Clear Inbox' script
+7. Open 'https://mail.protonmail.com/u/0/inbox' to access your ProtonMail inbox
 8. Allow the script to run until your inbox is cleared
 9. Disable the 'ProtonMail - Clear Inbox' script to ensure wanted emails are not accidentally deleted.
