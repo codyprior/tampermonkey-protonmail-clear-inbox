@@ -1,13 +1,14 @@
 # tampermonkey-protonmail-clear-inbox
 
 ## Description
-A Tampermonkey script that will  delete all messages in the inbox, one page at a time.
+A Tampermonkey script that will  delete all messages in ProtonMail's inbox, one page at a time.
 
 Modified from: https://webapps.stackexchange.com/a/163035
 
 ## Requirements
-- Tampermonkey: https://www.tampermonkey.net/
 - Firefox: https://www.mozilla.org/en-US/firefox/new/
+- Tampermonkey: https://www.tampermonkey.net/
+- ProtonMail: https://protonmail.com/
 
 ## Warning
 Please make sure you clear the Inbox of any messages you would like to keep first, otherwise you'll be sorting through the trash. If the script gets stuck, refresh the page. You may also try increasing the INTERVAL in the script.
